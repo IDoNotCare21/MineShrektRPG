@@ -1,0 +1,57 @@
+#MineShrekt Configuration
+#Created by Triplewer 
+#Created in Eclipse
+#MineShrekt Website: venemouscoders.tk
+
+#Server Itself Configuration (/serverinfo ingame)
+Enable-ServerInfoCommand: true
+Server-Name: Triplewers Test Server
+Website: http://www.rentonhorde.com/
+Owner: Triplewer
+
+#MOTD Configuration
+Enable-MOTD: true
+MOTD: Welcome to Triplewers Test Server!
+
+#Announcer Configuration
+announcer:
+  enabled: true
+
+  # Interval between announcements, in seconds.
+  interval: 100
+
+  # Prefix for all announcements
+  prefix: '&5[&eMineShrektRPG&5] &b'
+
+  announcements:
+    - '&bWelcome to MineShrektRPG!'
+    - '&6Our Development Team is VenemousCoders!'
+    
+#Visiter Counter Configuration
+Player-Visits: 25
+#Announcer Prefix it Visiter Counter Prefix 
+    
+#Swear Blocker Configurations
+Enable-SwearBlocker: true
+SwearMessage: Don't Swear!
+Swear Words: #Case Sensitive
+  - Pussy
+  - Penis
+  - Vagina
+  - Dick
+  - Cock
+  - 3sum
+  - Ass
+  - Fuck
+  - pussy
+  - penis
+  - vagina
+  - dick
+  - cock
+  - 3sum
+  - ass
+  - fuck
+  - FUCK
+  - BITCH
+  - Bitch
+  - Suck

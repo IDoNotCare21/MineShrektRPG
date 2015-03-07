@@ -1,0 +1,13 @@
+name: MineShrektRPG
+main: me.triplewer.MineShrektRPG
+version: Beta 2.5
+commands:
+   cc:
+      description: Clear Global Chat
+      usage: /<command>
+   gban:
+      description: Ban a player breaking the rules
+      usage: /<command>
+   gunban:
+      description: Unban a player
+      usage: /<command>
